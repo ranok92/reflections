@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between two versions of a file helped me to see the bug that was
+ introduced by highlighting the parts of the code that were actually different
+ from the previous one. This helped me to concentrate on just the parts that were
+ different and not the entire page of code. Thus making my work shorter and easier.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having the entire history of a particular file is pretty helpful in the long run. 
+This is because in the long run you will be able to view all the changes that has
+ been done on that particular file and how that thing had shaped up to be. In case
+ the newer versions have gone south then then an older version can always come very
+ handy to return the program to the state where the program was at a stable better
+ state than the current situation. 
+
+What do you think are the pros and cons of manually choosing when to create a commit
+ like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The main advantage of automatic saving is that if the coder is somewhat careless the
+ system complements his/her behaviour and keeps regular backups of the code for him/her.
+ But other than that I feel that choosing a manual commit is a way better option.
+ It is the coder who knows when a significant change has been made. And accourding
+to that he or she can do a version backup. It might be regardless of the time or 
+volume of the code thatt has been changed. 
+
+Why do you think some version control systems, like Git, allow saving multiple files
+ in one commit, while others, like Google Docs, treat each file separately?
+
+Generally other version control systems are made for everybody and like the example
+ done earlier, linking multiple files is seldom useful other than when dealing with
+ codes. And GIT is a system that has been created for one and one purpose only. To help programmers with their work. So that is the reason I
+ feel that GIT saves multiple files in one commit and the others dont.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Using version control a programmer will be more confident in making changes because even if he does 
+screw up something with the code, he knows that he always has a backup to fall back onto.
